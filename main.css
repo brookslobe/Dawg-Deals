@@ -1,0 +1,8 @@
+body {
+	background-color: #4b2e83;
+}
+
+html, body, object {
+   height: 98%;
+   min-width: 98%;
+}
